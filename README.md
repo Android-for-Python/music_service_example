@@ -11,7 +11,7 @@ The playlist is played in order and repeats. The lifetime of the playlist is the
 
 Receiving shares is not implemented, if you want to add this take a look at the [share_receive_example](https://github.com/Android-for-Python/share_receive_example).
 
-Playing streamed music is not implemented, as it is not required to illustrate playing music from a service. But presumably streamed music is just another uri, however it is possible you may have to research the implications for metadata. Don't ask I didn't try.
+Playing streamed music is not implemented, as it is not required to illustrate playing music from a service. But presumably streamed music is just another uri, however it is possible you may have to research the implications for metadata. Don't ask I didn't look at this.
 
 The music on the device must be tagged with album artist, album name, track name, genre, and optionally album art. If there is no (suitably tagged) music found some picker screens will be empty.
 
