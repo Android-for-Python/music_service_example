@@ -1,6 +1,8 @@
 Music Service Example
 =====================
 
+Android Only.
+
 Plays music from a service, the player is persistent regardless of the app state. Features are only those required to illustrate playing music from a service.
 
 The example illustrates using a 'foreground sticky' service that is stateful. It also illustrates querying the Android Mediastore.
