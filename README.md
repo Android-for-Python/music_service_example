@@ -1,6 +1,8 @@
 Music Service Example
 =====================
 
+**2023-11-13 This repository is archived.**
+
 Android Only.
 
 Plays music from a service, the player is persistent regardless of the app state. Features are only those required to illustrate playing music from a service.
